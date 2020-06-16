@@ -9,26 +9,13 @@ Despite broad consensus on the benefits of a nexus approach to multi-sector plan
 
 
 ## Code reference
-- Metis version on zenodo
-- GCAM version on zenodo
-- Tethys version on zenodo
-- Demeter version on zenodo
-- Xanthos version on zenodo
-- Bia/other downscaling tools on zenodo
+- GCAM [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3897519.svg)](https://doi.org/10.5281/zenodo.3897519)
+- Figures Script 
 
 
 ## Journal reference
 Khan, Z., Wild, T., Carrazzone, M.E.S., Gaudioso, R., Mascari, M.P., Bianchi, F., Weinstein, F., Pérez, F., Pérez, W., Miralles-Wilhelm, F. and Clarke, L., 2020. Integrated energy-water-land nexus planning to guide national policy: an example from Uruguay. Environmental Research Letters.
 
-## Data reference
-
-### Input data
-- Inputs for Metis version on zenodo
-- Inputs for GCAM version on zenodo
-- Inputs for Tethys version on zenodo
-- Inputs for Demeter version on zenodo
-- Inputs for Xanthos version on zenodo
-- Inputs for Bia/other downscaling tools on zenodo
 
 ### Output data
 - Outputs from Metis on datahub
@@ -38,9 +25,4 @@ Khan, Z., Wild, T., Carrazzone, M.E.S., Gaudioso, R., Mascari, M.P., Bianchi, F.
 ## Contributing models
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
-| Metis | v1.0.0_paperMetisUSA | https://github.com/zarrarkhan/metis/tree/v1.0.0_paperMetisUSA | DOI |
-| GCAM | versionx | repo | DOI |
-| Demeter | versionx | repo | DOI |
-| Tethys | versionx | repo | DOI |
-| Xanthos | versionx | repo | DOI |
-| Bia/Others | versionx | repo | DOI |
+| GCAM | gcam-v5.1.3LAC | https://doi.org/10.5281/zenodo.3897519 | https://doi.org/10.5281/zenodo.3897519 |
