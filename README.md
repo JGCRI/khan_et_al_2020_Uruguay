@@ -10,19 +10,16 @@ Despite broad consensus on the benefits of a nexus approach to multi-sector plan
 
 ## Code reference
 - GCAM [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3897519.svg)](https://doi.org/10.5281/zenodo.3897519)
-- Figures Script 
+- Add script to run Metis to generate figures.
 
 
 ## Journal reference
 Khan, Z., Wild, T., Carrazzone, M.E.S., Gaudioso, R., Mascari, M.P., Bianchi, F., Weinstein, F., Pérez, F., Pérez, W., Miralles-Wilhelm, F. and Clarke, L., 2020. Integrated energy-water-land nexus planning to guide national policy: an example from Uruguay. Environmental Research Letters.
 
 
-### Output data
-- Outputs from Metis on datahub
-- Metis viewer dashboard on shinyapps.io
-
 
 ## Contributing models
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
 | GCAM | gcam-v5.1.3LAC | https://doi.org/10.5281/zenodo.3897519 | https://doi.org/10.5281/zenodo.3897519 |
+| metis | khan_et_al_2020_Uruguay | Add Repo | Add Zenodo |
