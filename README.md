@@ -10,7 +10,8 @@ Despite broad consensus on the benefits of a nexus approach to multi-sector plan
 
 ## Code reference
 - GCAM [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3897519.svg)](https://doi.org/10.5281/zenodo.3897519)
-- Add script to run Metis to generate figures.
+- Figures Scripts [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3899012.svg)](https://doi.org/10.5281/zenodo.3899012)
+
 
 
 ## Journal reference
@@ -22,4 +23,4 @@ Khan, Z., Wild, T., Carrazzone, M.E.S., Gaudioso, R., Mascari, M.P., Bianchi, F.
 | Model | Version | Repository Link | DOI |
 |-------|---------|-----------------|-----|
 | GCAM | gcam-v5.1.3LAC | https://doi.org/10.5281/zenodo.3897519 | https://doi.org/10.5281/zenodo.3897519 |
-| metis | khan_et_al_2020_Uruguay | Add Repo | Add Zenodo |
+| metis | khan_et_al_2020_Uruguay | https://github.com/JGCRI/metis/tree/khan_et_al_2020_Uruguay | https://doi.org/10.5281/zenodo.3899012 |
